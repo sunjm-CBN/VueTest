@@ -1,2 +1,2 @@
 # VueTest
-联系vue项目专用
+练习vue项目专用
